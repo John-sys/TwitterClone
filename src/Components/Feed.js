@@ -5,7 +5,7 @@ function Feed() {
     return (
         <div>
             {/* Header */}
-            <h2>The feed goes here</h2>  
+            <h2>This is the Home</h2>  
             
             {/* TweetBox */}
 
